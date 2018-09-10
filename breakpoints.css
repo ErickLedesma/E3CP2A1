@@ -1,6 +1,13 @@
 @font-face {
-  font-family: seeis;
-  src: "SEEIS__.TTF";
+  font-family: "seeis";
+  src: "seeis.ttf";
+}
+.stars {
+  font-family: "Courier";
+  float: right;
+}
+.star-achieve {
+  color: red;
 }
 
 .image{
@@ -59,10 +66,6 @@ p {
   color: white;
   padding: 2%;
   font-weight: bold;
-}
-
-.stars {
-  font-family: "seeis";
 }
 
 .fondo {
